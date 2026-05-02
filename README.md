@@ -1,3 +1,2 @@
 # Puzzle-Bobble
 パズルボブル
-こんにちは
