@@ -1,3 +1,3 @@
 # Puzzle-Bobble
 パズルボブル
-konnnitiha
+こんにちは
